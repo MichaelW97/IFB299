@@ -2,19 +2,19 @@
 
 ## High qualility team
 
-Charlotte
+Charlotte:
 Scrum master/Client
 
-Bridgette
+Bridgette:
 Scrum master/Client
 
-Zac
+Zac:
 Development
 
-Willian
+William:
 Development
 
-Michael
+Michael:
 Development
 
 # Developing
